@@ -1,0 +1,27 @@
+{
+  "name": "jep-snap",
+  "version": "0.1.0",
+  "description": "JEP Snap for MetaMask - Protect users from malicious transactions with verifiable receipts",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "mm-snap build",
+    "watch": "mm-snap watch",
+    "serve": "mm-snap serve"
+  },
+  "keywords": [
+    "metamask",
+    "snap",
+    "jep",
+    "security",
+    "transactions",
+    "protection"
+  ],
+  "author": "JEP Foundation",
+  "license": "MIT",
+  "dependencies": {
+    "@metamask/snaps-sdk": "^0.8.0"
+  },
+  "devDependencies": {
+    "@metamask/snaps-cli": "^0.28.0"
+  }
+}
