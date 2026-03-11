@@ -79,4 +79,3 @@ yarn-error.log*
 # OS
 .DS_Store
 Thumbs.db
-```
