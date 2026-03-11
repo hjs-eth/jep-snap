@@ -118,7 +118,7 @@ MIT © JEP Foundation
 
 ## 🔗 Links
 
-- **GitHub**: [https://github.com/jep-eth/jep-snap](https://github.com/jep-eth/jep-snap)
+- **GitHub**: [https://github.com/jep-eth/jep-snap](https://github.com/hjs-eth/jep-snap/tree/main/packages)
 - **JEP Protocol**: [https://github.com/hjs-spec/jep-spec](https://github.com/hjs-spec)
 - **IETF Draft**: [https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/](https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/)
 
