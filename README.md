@@ -127,4 +127,3 @@ MIT © JEP Foundation
 ## 🤝 Contributing
 
 Issues and PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-```
