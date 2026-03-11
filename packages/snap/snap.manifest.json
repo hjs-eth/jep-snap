@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "description": "JEP Snap - Protect your assets with verifiable transaction receipts",
+  "proposedName": "JEP Guard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jep-eth/jep-snap.git"
+  },
+  "source": {
+    "shasum": "",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "jep-snap",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_dialog": {},
+    "endowment:transaction-insight": {},
+    "endowment:network-access": {},
+    "snap_getEntropy": {},
+    "snap_manageState": {}
+  },
+  "manifestVersion": "0.1"
+}
